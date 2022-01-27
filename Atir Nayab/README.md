@@ -71,3 +71,168 @@
   * I/O Redirection
   * pipes
   * locate
+
+#### 18-Jan-2022 (day 9)
+* Chapter 7: Command Line Operations (finished)
+  * Wildcards and Matching File Names
+  * Find
+  * Package Mangers: Two Levels
+* Chapter 8: Finding Linux Documentation (finished)
+  * man
+  * Other Documentation Sources
+  * Package Documentation
+* Chapter 9: Processes
+  * What is Process?
+  * Process Types
+  * Process Scheduling and States
+  * Terminating a Process
+  * User and Group IDs
+
+#### 19-Jan-2022 (day 10)
+* chapter 9: Processes (finished)
+  * More About Priorities
+  * Load Averages
+  * Interpreting Load Averages
+  * Background and Foreground Processes
+  * Managing Jobs
+  * top
+* Chapter 10: File Operations (start)
+  * Filesystem Varieties
+  * Linux Partitions
+  * Mount Points
+  * Mounting and Unmounting
+  * NFS and Network Filesystems
+  * Filessystem Architecture
+
+#### 20-Jan-2022 (day 11)
+* Chapter 10: File Operations (finished)
+  * Filesystem Varieties
+  * Comparing Files and File types
+  * Backing Up and Compressing Data
+* Chapter 11: Text Editors (finished)
+  * nano
+  * gedit
+  * More Advanced Editors: vi and emacs
+* Chapter 12: User Environment
+  * Accounts, Users and Groups
+
+#### 21-Jan-2022 (day12)
+* Chapter 12: User Environment
+  * Accounts, Users and Groups
+    * The root Account
+    * su and sudo
+  * Environment Variables
+
+#### 22-Jan-2022 (day 13)
+* Chapter 12: User Environment (finished)
+  * Enviroment Variables
+    * Setting Environment Variables
+    * The HOME Varible
+    * The PATH Variable
+    * SHELL variable
+  * Recalling Previous Commands
+    * Using history environment variables
+    * Finding previously used commands
+    * Executing Previous commands
+    * Keyboard shortcuts
+  * File Permissions
+    * File Ownership
+* Chapter 13: Manupipulating Text (started)
+  * cat and echo
+    * cat
+  * Working with Large Files
+    * head
+    * tail
+    * viewing compressed files
+  * sed and awk
+    * sed
+    * sed command syntax
+    * sed basic operations
+
+#### 23-Jan-2022 (day 14)
+* Chapter 13: Manipulating text (finished)
+  * sed and awk
+    * sed basic operations
+    * awk
+    * awk basic operations
+  * file manipulation utilities
+    * sort
+    * uniq
+    * paste
+    * join
+    * split
+    * Regular expression
+  * grep and strings
+    * grep
+    * strings
+  * Miscellaneous text utilities
+    * tr
+    * tee
+    * wc
+    * cut
+* Chapter: 14: Network Operations
+  * Network Addresses and DNS
+    * IP Addresses
+    * IPv4 and IPv6
+    * decoding IPv4
+    * class A network
+    * class B network
+    * class C network
+    * ip address allocation
+    * name resolution
+
+#### 24-Jan-2022 (day 15)
+* Chapter 14: Network Operations (finished)
+  * Networking Configuration and Tools
+    * The Ip utility
+    * pint
+    * route
+    * traceroute
+  * Non-Graphical Browsers
+    * wget
+    * curl
+  * transfering files
+    * FTP
+    * ssh
+    * copying files securely with scp
+
+#### 25-Jan-2022 (day 16)
+* [DevOps Prerequisites course](https://www.youtube.com/watch?v=Wvf0mBNGjXY&t=0s)
+  * Linux Basics
+    * Linux CLI
+    * VI editor
+    * Package Management
+    * Service Management
+  * Networking
+    * Networking in virtaulBox
+    * Networking Adapter
+    * NAT
+    * NAT network
+    * Host only
+    * Internet connectivity
+  * Vagrant
+  * DNS
+  * Domain Name
+    * DNS lookup heirarchy
+  * nslookup
+  * Switch
+  * Router
+  * Gateway
+  * Use linux as router
+
+#### 26-Jan-2022 (day 16)
+* [Free CCNA](https://www.youtube.com/watch?v=rv3QK2UquxM&t=0s)
+  * what is network?
+  * what is networking?
+  * Router
+  * Modem
+  * SFP
+  * Switch
+  * Types of IP Address
+  * IPv4 classes
+  * OSI reference model
+  * TCP/IP
+  * IANA
+  * Routing
+  * Calculate subner mask
+  * types of subnet mask
